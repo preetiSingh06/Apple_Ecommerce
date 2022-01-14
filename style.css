@@ -17,7 +17,7 @@ html {
 }
 
 :root {
-  --primary-color: #6edae6;
+  --primary-color: hsl(186, 71%, 67%);
   --white-color: #fff;
   --black-color: #000;
 }
