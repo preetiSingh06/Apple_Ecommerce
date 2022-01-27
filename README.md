@@ -34,6 +34,9 @@ where the most popular colour will be visible after hovering over it.
 -In the 3rd section, customes will find whole collection of smart watches.
 Can customize any screen and band according to their prefernce.
 
+![Screenshot (128)](https://user-images.githubusercontent.com/96286863/151354681-e0e45c9c-c45b-43e8-9094-9401719c8ba8.png)
+-images.githubusercontent.com/96286863/151354657-ca41230b-69e8-4b59-b60a-28f16d64ddd9.png)
+
 #######SECTION-4
 
 -In this section customer will find the Airpods.
