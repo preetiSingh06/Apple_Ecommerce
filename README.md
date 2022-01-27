@@ -29,6 +29,8 @@ where the most popular colour will be visible after hovering over it.
 
 -In the 2nd section, customers will find a MacBook Air opening and loading by itself.
 
+
+
 ######SECTION-3
 
 -In the 3rd section, customes will find whole collection of smart watches.
