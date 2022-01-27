@@ -17,6 +17,8 @@ And the background is changing after a interval of time.
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/96286863/151354214-14e2c1e9-2c08-4dce-a48f-a24210e2a5d4.png)
 
+https://user-images.githubusercontent.com/96286863/151388503-7ca38a3f-d59f-40a6-8326-d1aec7c2f5d6.mp4
+
 ####SECTION-1
 
 -In the 1st section, all the available colours of the iphone are placed in 3D manner with the two buttons for acknowledgement.
