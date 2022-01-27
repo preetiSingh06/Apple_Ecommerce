@@ -46,6 +46,7 @@ Can customize any screen and band according to their prefernce.
 ![Screenshot (128)](https://user-images.githubusercontent.com/96286863/151354681-e0e45c9c-c45b-43e8-9094-9401719c8ba8.png)
 
 
+https://user-images.githubusercontent.com/96286863/151388691-47af7d32-75f4-4342-8f1b-e6798da547da.mp4
 
 #######SECTION-4
 
