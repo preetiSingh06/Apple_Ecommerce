@@ -8,6 +8,8 @@ Structured using HTML
 Styled using CSS
 Animation and functioning is done by using JavaScript.
 
+![Screenshot (124)](https://user-images.githubusercontent.com/96286863/151354214-14e2c1e9-2c08-4dce-a48f-a24210e2a5d4.png)
+
 ###HOME Page
 
 -In the home page, here is a navbar containing all the 4 sections of the website.
