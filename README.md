@@ -21,6 +21,7 @@ A box of iphone is placed at the LHS that enables the customer to check the pack
 
 https://user-images.githubusercontent.com/96286863/151388503-7ca38a3f-d59f-40a6-8326-d1aec7c2f5d6.mp4
 
+
 ####SECTION-1
 
 -In the 1st section, all the available colours of the iphone are placed in 3D manner with the two buttons for acknowledgement.
@@ -30,6 +31,7 @@ where the most popular colour will be visible after hovering over it.
 ![Screenshot (126)](https://user-images.githubusercontent.com/96286863/151354229-0789ee12-6003-49ac-ad4e-7cae50f7f8e6.png)
 
 https://user-images.githubusercontent.com/96286863/151388584-1542ba34-803d-4d93-b0fb-5e68f030bec8.mp4
+
 
 #####SECTION-2
 
@@ -48,6 +50,7 @@ https://user-images.githubusercontent.com/96286863/151388638-ad77a0f1-e579-463a-
 
 
 https://user-images.githubusercontent.com/96286863/151388691-47af7d32-75f4-4342-8f1b-e6798da547da.mp4
+
 
 #######SECTION-4
 
