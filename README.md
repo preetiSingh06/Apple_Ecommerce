@@ -3,16 +3,18 @@
 
 ##OVERVIEW OF PROJECT
 
--This is a frontend of an Ecommercial website of Apple products containing iphone, Smart watches, MacBook Air and Airpods.
-Structured using HTML
-Styled using CSS
-Animation and functioning is done by using JavaScript.
+-This is a frontend of an Ecommercial website of the Apple products containing iphone, Smart watches, MacBook Air and Airpods.
+
+-Structured using HTML.
+
+-Styled using CSS.
+
+-Animation and functioning is done by using JavaScript.
 
 ###HOME Page
 
 -In the home page, here is a navbar containing all the 4 sections of the website.
-A box of iphone is placed at the LHS that enables the user to check the packaging by using the rotator button, just below the box.
-And the background is changing after a interval of time.
+A box of iphone is placed at the LHS that enables the customer to check the packaging by using the rotator button, just below the box and the background is changing after an interval of time.
 
 
 ![Screenshot (124)](https://user-images.githubusercontent.com/96286863/151354214-14e2c1e9-2c08-4dce-a48f-a24210e2a5d4.png)
@@ -40,8 +42,7 @@ https://user-images.githubusercontent.com/96286863/151388638-ad77a0f1-e579-463a-
 
 ######SECTION-3
 
--In the 3rd section, customes will find whole collection of smart watches.
-Can customize any screen and band according to their prefernce.
+-In the 3rd section, customer will find whole range of smart watches also can customize any screen and band according to their preference.
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/96286863/151354681-e0e45c9c-c45b-43e8-9094-9401719c8ba8.png)
 
@@ -50,8 +51,7 @@ https://user-images.githubusercontent.com/96286863/151388691-47af7d32-75f4-4342-
 
 #######SECTION-4
 
--In this section customer will find the Airpods.
-Where I have added the front as well as the side view of the Airpods.
+-In this section customer will find the Airpods, where I have added the front as well as the side view of the Airpods.
 Footer is also attched in this last section which contain same products icon linked to its individual sections.
 
 ![Screenshot (129)](https://user-images.githubusercontent.com/96286863/151355464-b81af402-e485-4756-aed3-3ca3e0e38214.png)
