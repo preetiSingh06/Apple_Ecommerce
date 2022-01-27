@@ -3,7 +3,7 @@
 
 ##OVERVIEW OF PROJECT
 
--This is a frontend Ecommercial website of Apple products containing iphone, Smart watches, MacBook Air and Airpods.
+-This is a frontend of an Ecommercial website of Apple products containing iphone, Smart watches, MacBook Air and Airpods.
 Structured using HTML
 Styled using CSS
 Animation and functioning is done by using JavaScript.
@@ -38,7 +38,6 @@ where the most popular colour will be visible after hovering over it.
 Can customize any screen and band according to their prefernce.
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/96286863/151354681-e0e45c9c-c45b-43e8-9094-9401719c8ba8.png)
--images.githubusercontent.com/96286863/151354657-ca41230b-69e8-4b59-b60a-28f16d64ddd9.png)
 
 #######SECTION-4
 
