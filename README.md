@@ -35,6 +35,8 @@ https://user-images.githubusercontent.com/96286863/151388584-1542ba34-803d-4d93-
 
 ![Screenshot (127)](https://user-images.githubusercontent.com/96286863/151354996-7d6f3d09-7ba0-4e8b-863e-70cda6cf52c7.png)
 
+https://user-images.githubusercontent.com/96286863/151388638-ad77a0f1-e579-463a-9e7b-8ca50aa6db86.mp4
+
 
 ######SECTION-3
 
@@ -42,6 +44,8 @@ https://user-images.githubusercontent.com/96286863/151388584-1542ba34-803d-4d93-
 Can customize any screen and band according to their prefernce.
 
 ![Screenshot (128)](https://user-images.githubusercontent.com/96286863/151354681-e0e45c9c-c45b-43e8-9094-9401719c8ba8.png)
+
+
 
 #######SECTION-4
 
