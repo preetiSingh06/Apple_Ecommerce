@@ -27,6 +27,8 @@ where the most popular colour will be visible after hovering over it.
 ![Screenshot (125)](https://user-images.githubusercontent.com/96286863/151354220-fed0d70f-40dd-4e97-9ad9-28f3cce8ec56.png)
 ![Screenshot (126)](https://user-images.githubusercontent.com/96286863/151354229-0789ee12-6003-49ac-ad4e-7cae50f7f8e6.png)
 
+https://user-images.githubusercontent.com/96286863/151388584-1542ba34-803d-4d93-b0fb-5e68f030bec8.mp4
+
 #####SECTION-2
 
 -In the 2nd section, customers will find a MacBook Air opening and loading by itself.
