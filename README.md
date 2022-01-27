@@ -46,6 +46,5 @@ Can customize any screen and band according to their prefernce.
 Where I have added the front as well as the side view of the Airpods.
 Footer is also attched in this last section which contain same products icon linked to its individual sections.
 
-![Screenshot (131)](https://user-images.githubusercontent.com/96286863/151355291-4011def4-59eb-458f-abf4-41992a2ade21.png)
-.githubusercontent.com/96286863/151355277-da823c4b-a791-4a56-b003-f74f44a642f2.png)
+![Screenshot (129)](https://user-images.githubusercontent.com/96286863/151355464-b81af402-e485-4756-aed3-3ca3e0e38214.png)
 ![Screenshot (131)](https://user-images.githubusercontent.com/96286863/151355327-dba4d0bb-073b-4725-a69d-dc8a0fe77050.png)
