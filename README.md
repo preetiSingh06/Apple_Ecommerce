@@ -3,7 +3,7 @@
 
 ##OVERVIEW OF PROJECT
 
--This is an Ecommercial website of Apple products containing iphone, Smart watches, MacBook Air and Airpods.
+-This is a frontend Ecommercial website of Apple products containing iphone, Smart watches, MacBook Air and Airpods.
 Structured using HTML
 Styled using CSS
 Animation and functioning is done by using JavaScript.
